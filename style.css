@@ -1,0 +1,45 @@
+
+body {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+h1 {
+    margin-left: 10px;
+}
+a {
+    text-decoration: none;
+    color: black;
+
+}
+
+
+ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    padding-right: 30px;
+}
+
+.p1 {
+    padding: bottom 0;
+}
+
+.navigation {
+    padding-left:15px;
+}
+
+.mainstr {
+    border: solid 1px black;
+    display: block;
+    margin-left: 10px;;
+    width: 450px;
+    padding: 10px;
+}
